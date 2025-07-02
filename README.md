@@ -1,6 +1,10 @@
 Nexus - Digital Innovation Website
 A modern, responsive static website built with pure HTML, CSS, and JavaScript featuring cutting-edge design elements, smooth animations, and interactive user experiences.
 
+
+#here is my ddeployed version of my site
+https://vasantjv-2005.github.io/
+
 🌟 Features
 Design & Visual Effects
 Modern Dark Theme - Sophisticated color palette with gradient accents
